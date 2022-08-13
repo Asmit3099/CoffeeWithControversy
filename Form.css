@@ -1,0 +1,72 @@
+footer{
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 5px rgb(221, 20, 221);
+    background: linear-gradient();
+    border: 10px outset;
+}
+
+
+img{
+    height: 200px;
+   
+}
+
+body{
+    background-color: rgba(0, 0, 0, 1);
+    background-image: url(./jj.jpg);
+    background-size: 1000px 1000px;
+    
+}
+p{
+    color: rgb(221, 20, 221);
+    text-shadow: 1px 1px 4px rgba(221, 20, 221, 1);
+}
+.input{
+    border: 5px inset;
+    padding-top: 3px;
+    padding-left: 6px;
+    
+}
+#logo{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.formText{
+    text-align: center;
+}
+
+#form{
+    position: fixed;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 25%;
+    padding-left: auto;
+    padding-right: auto;
+    border: 5px white solid;
+    border-radius: 25px;
+    
+    
+}
+#form:hover{
+    background: linear-gradient(black 40%, rgb(49, 202, 28));
+    
+}
+
+#welcomeNote{
+    text-align: center;
+   
+}
+
+
+.button{
+    background-color: rgba(221, 20, 221, 0.5);
+    cursor: pointer;
+    border-radius: 100px;
+}
+#email{
+    text-align: right;
+}
